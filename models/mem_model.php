@@ -1,4 +1,5 @@
 <?php
+require 'libs/Music/getlink.php';
 
 class Mem_Model extends Model
 {
@@ -59,29 +60,41 @@ class Mem_Model extends Model
         }    
         
         //-----------------------get info album-------------------------
-        function getStoryAlbum($id_album)
-        {
-            $sth = $this->db->prepare("SELECT title,content FROM ".DB_PREFIX."story_album WHERE 
-				id_album = :id_album");
-            $sth->execute(array(
-                    ':id_album' => $id_album
-            ));
-
-            $data = $sth->fetchAll();
-            return $data;
-        }
-        
         function getInfoAlbum($id_album)
         {
-            $sth = $this->db->prepare("SELECT name_album,music_embed FROM ".DB_PREFIX."list_albums WHERE 
-				id = :id_album ");
+			$sth = $this->db->prepare("SELECT alb.name_album,mu.music,mu.music_embed,st.title,st.content 
+				FROM ".DB_PREFIX."list_albums alb LEFT JOIN ".DB_PREFIX."list_musics mu ON alb.id = mu.id_album LEFT JOIN "DB_PREFIX."story_album st ON alb.id = st.id_album 
+				WHERE alb.id= :id_album");
             $sth->execute(array(
                     ':id_album' => $id_album
             ));
 
             $data = $sth->fetchAll();
-            return $data;
-        }
+            return $data[0];
+		}
+
+        // function getStoryAlbum($id_album)
+        // {
+        //     $sth = $this->db->prepare("SELECT title,content FROM ".DB_PREFIX."story_album WHERE 
+		// 		id_album = :id_album");
+        //     $sth->execute(array(
+        //             ':id_album' => $id_album
+        //     ));
+        //
+        //     $data = $sth->fetchAll();
+        //     return $data;
+        // }
+        // function getInfoAlbum($id_album)
+        // {
+        //     $sth = $this->db->prepare("SELECT name_album,music_embed FROM ".DB_PREFIX."list_albums WHERE 
+		// 		id = :id_album ");
+        //     $sth->execute(array(
+        //             ':id_album' => $id_album
+        //     ));
+        //
+        //     $data = $sth->fetchAll();
+        //     return $data;
+        // }
         
         function getNameAndMusicAlbum($id_album)
         {
@@ -175,18 +188,15 @@ class Mem_Model extends Model
         
         
         //--------------create new album---------------
-        function createNewAlbum($id_user,$name_album,$linkmusic)
+        function createNewAlbum($id_user,$name_album)
         {
-            $url_embed = $this->getURLembed($linkmusic);
             //create new album in list album
             $sth = $this->db->prepare("INSERT INTO ".DB_PREFIX."list_albums 
-                            (`id_author` ,`name_album` ,`music`,`music_embed`) VALUES
-                            (:id_author,:name_album,:music,:music_embed)");
+                            (`id_author` ,`name_album`) VALUES
+                            (:id_author,:name_album)");
             $sth->execute(array(
                     ':id_author'     => $id_user,
-                    ':name_album'    => $name_album,
-                    ':music'         => $linkmusic,
-                    ':music_embed'   => $url_embed
+                    ':name_album'    => $name_album
             ));
             
             return $this->db->getInsertID();
@@ -217,7 +227,21 @@ class Mem_Model extends Model
                     ':cmt'         => $cmt,
                     ':stt' =>$stt
             ));
-        }
+		}
+
+		function createNewMusicAlbum($id_album,$linkmusic){
+			$url_embed = get_link_music_embed($linkmusic);
+			//create new album in list album
+			$sth = $this->db->prepare("INSERT INTO ".DB_PREFIX."list_musics 
+						(`id_album` ,`music`,`music_embed`,`is_flash`) VALUES
+						(:id_album,:music,:music_embed,:is_flash)");
+			$sth->execute(array(
+					':id_album'     => $id_album,
+					':music'         => $linkmusic,
+					':music_embed'   => $url_embed['data'],
+					':is_flash'     =>  $url_embed['is_flash']
+			));
+		}
         
         
         //delete album
@@ -298,6 +322,7 @@ class Mem_Model extends Model
 			$cmt = str_replace("\'","'",$cmt);
 			return $cmt;
 		}
+
         function nice_url($url) {
             if((strpos($url, "http://") === false)
                 && (strpos($url, "https://") === false)) {
@@ -306,7 +331,8 @@ class Mem_Model extends Model
 
             return $url;
 
-        }
+		}
+
         function _viewSource($url){ 
             $url = $this->nice_url($url);
             $parse_url = parse_url($url); 
@@ -325,7 +351,8 @@ class Mem_Model extends Model
             curl_close($ch); 
             ob_end_clean();
             return $result; 
-        }
+		}
+
         function getURLembed($url){
             $page = $this->_viewSource($url);
             
@@ -366,7 +393,5 @@ class Mem_Model extends Model
 			$url_photo = substr($source,$pos,$pos_end - $pos);
 			return $url_photo;
 		}
-
 }
-
 ?>

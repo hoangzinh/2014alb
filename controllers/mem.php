@@ -92,6 +92,7 @@ class Mem extends Controller {
                             
                             $id_album = $this->model->createNewAlbum($userid,$_POST['name_album'],$_POST['link_music']);
                             $this->model->createNewStoryAlbum($id_album,$_POST['title_story'],$_POST['content_story']);
+                            $this->model->createNewMusicAlbum($id_album,$_POST['link_music']);
                         }
                     
                     $stt = 1;
@@ -226,36 +227,26 @@ class Mem extends Controller {
         
         function mem_showalbum($name_mem,$id_album) {
             //check valid
-            // $user_id = $this->model->getuserid($name_mem);
-            // if ($user_id == NULL)
-                // $this->redirect_to_error_page();
             $this->check_validation_with_album($name_mem, $id_album);
             
-            //story
-            $data_story = $this->model->getStoryAlbum($id_album);
-            if ($data_story == NULL)
-            {
-                $this->view->title_story = "Câu chuyện của album";
-                $this->view->content_story = "( Tác giả đang trong quá trình viết câu chuyện cho album này ^_^ )";
-            }else
-            {
-                if($data_story[0][0] == "")
-                    $this->view->title_story = "Câu chuyện của album";
-                else
-                    $this->view->title_story = $data_story[0][0];
+			//story,name,music
+			$data_info = $this->model->getInfoAlbum($id_album);
+			if($data_info['title'] == "")
+				$this->view->title_story = "Câu chuyện của album";
+			else
+				$this->view->title_story = $data_info['title'];
                 
-                if($data_story[0][1] == "")
-                    $this->view->content_story = "( Tác giả đang trong quá trình viết câu chuyện cho album này ^_^ )";
-                else
-                    $this->view->content_story = $data_story[0][1];
-            }
+			if($data_info['content'] == "")
+				$this->view->content_story = "( Tác giả đang trong quá trình viết câu chuyện cho album này ^_^ )";
+			else
+				$this->view->content_story = $data_info['content'];
+
             //music && name
-            $data_info = $this->model->getInfoAlbum($id_album);
-            if ($data_info[0][1] == NULL)
+            if ($data_info['music_embed'] == NULL)
                 $this->view->music_album = "http://www.nhaccuatui.com/l/nxmVCbf0A60J";
             else
-                $this->view->music_album = $data_info[0][1];
-            $this->view->name_album = $data_info[0][0];
+                $this->view->music_album = $data_info['music_embed'];
+            $this->view->name_album = $data_info['name_album'];
             
             //photos
 
