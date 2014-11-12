@@ -1,0 +1,35 @@
+#table-login td,#table-login th{
+    border: none;
+}
+
+#table-login th{
+    color: white;
+    font-weight: normal;
+}
+
+#table-login tr{
+    height: 10px;
+    
+}
+
+#input-incorrect,#input-duplicate,#input-login-incorrect {
+    display: none;
+}
+
+.loadingimg{
+    display:none;
+}
+
+#demo
+{
+    padding: 50px;
+}
+
+
+a#btn-forgotpass
+{
+    text-decoration:none;
+    margin: 0px;
+    line-height:1;
+    font-size:14px;
+}

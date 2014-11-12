@@ -1,0 +1,61 @@
+
+body{
+	font-size: 16px;
+	background: url('../img/mem/bg.jpg') repeat;
+	font-family: Open Sans;
+}
+h1,h2,h3,h4,h5{
+	font-family: Sofia;
+	font-weight: normal;
+}
+a:hover{
+	text-decoration: none;
+}
+
+.navbar{
+	margin-bottom: 0px !important;
+}
+
+.hero-unit{
+	background:  url('../img/mem/hero-unit.png') repeat-x 50% top;
+	min-height:330px;
+	border-radius: 0;
+	margin-bottom: 0;
+	color:#fff;
+	padding:0px;
+	position: relative;
+}
+.hero-unit #xe-dap{
+	background: transparent url('../img/mem/xe-dap-4.png') 0 0 repeat-x;
+	position: absolute;
+	top: 130px;
+	left: 650px;
+	width: 221px;
+	height: 218px;
+	
+	cursor: pointer;
+}
+#cloud{
+	background:#19b698 url('../img/mem/cloud.png') repeat-x;
+	height: 330px;
+	z-index: 2;
+	margin-bottom: 20px;
+}
+
+#footer{	
+	color:#fff;
+	padding-top:5px;
+	margin-top: 50px
+}
+
+.main-panel
+{
+	background-color:#007FFF;
+	padding: 0 10px;
+	color:#fff;
+}
+
+.main-panel h4
+{
+	line-height:40px;
+}

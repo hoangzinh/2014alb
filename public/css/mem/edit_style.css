@@ -1,0 +1,82 @@
+#body{
+	min-height:500px;
+}
+
+
+.title_edit_album
+{
+	color:#F30;
+	margin:50px 0;
+}
+
+.title_hd_album
+{
+    margin:100px 0 10px 0;
+    color:green;
+}
+
+#table_photo_header
+{
+	background-color:#007fff;
+	color:#FFF;
+}
+
+#input-info-error{
+    display:none;
+}
+/* custom inclusion of right, left and below tabs */
+
+.tabs-left > .nav-tabs {
+  border-bottom: 0;
+}
+
+.tab-content > .tab-pane,
+.pill-content > .pill-pane {
+  display: none;
+}
+
+.tab-content > .active,
+.pill-content > .active {
+  display: block;
+}
+
+
+.tabs-left > .nav-tabs > li {
+  float: none;
+}
+
+.tabs-left > .nav-tabs > li > a{
+  min-width: 74px;
+  margin-right: 0;
+  margin-bottom: 3px;
+  color:#333333;
+}
+
+.tabs-left > .nav-tabs {
+  float: left;
+  margin-right: 19px;
+  border-right: 1px solid #ddd;
+}
+
+.tabs-left > .nav-tabs > li > a {
+  margin-right: -1px;
+  -webkit-border-radius: 4px 0 0 4px;
+     -moz-border-radius: 4px 0 0 4px;
+          border-radius: 4px 0 0 4px;
+}
+
+.tabs-left > .nav-tabs > li > a:hover,
+.tabs-left > .nav-tabs > li > a:focus {
+  border-color: #eeeeee #dddddd #eeeeee #eeeeee;
+  
+  background-color:#007fff;
+}
+
+.tabs-left > .nav-tabs .active > a,
+.tabs-left > .nav-tabs .active > a:hover,
+.tabs-left > .nav-tabs .active > a:focus {
+  border-color: #ddd transparent #ddd #ddd;
+  *border-right-color: #ffffff;
+  
+  background-color:#007fff;
+}

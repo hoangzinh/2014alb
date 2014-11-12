@@ -1,0 +1,32 @@
+.title_edit_album
+{
+	color:#F30;
+	margin:50px 0;
+}
+
+.title_hd_album
+{
+    margin:100px 0 10px 0;
+    color:green;
+}
+
+#table_photo_header
+{
+	background-color:#007fff;
+	color:#FFF;
+}
+
+.body-tab
+{
+    margin: 50px 0;
+}
+
+#THREESTEP{
+    border: 1px solid #18C0DF;
+}
+
+
+#table-photo a
+{
+    text-decoration:none;
+}

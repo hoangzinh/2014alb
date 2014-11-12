@@ -1,0 +1,1767 @@
+[06-Apr-2014 13:22:46 America/New_York] PHP Warning:  require_once(/public/custom_php/iwanago.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/whatyoun/public_html/album/views/index/index.php on line 3
+[06-Apr-2014 13:22:46 America/New_York] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/public/custom_php/iwanago.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/whatyoun/public_html/album/views/index/index.php on line 3
+[06-Apr-2014 13:22:47 America/New_York] PHP Warning:  require_once(/public/custom_php/iwanago.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/whatyoun/public_html/album/views/index/index.php on line 3
+[06-Apr-2014 13:22:47 America/New_York] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/public/custom_php/iwanago.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/whatyoun/public_html/album/views/index/index.php on line 3
+[06-Apr-2014 13:22:47 America/New_York] PHP Warning:  require_once(/public/custom_php/iwanago.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/whatyoun/public_html/album/views/index/index.php on line 3
+[06-Apr-2014 13:22:47 America/New_York] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/public/custom_php/iwanago.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/whatyoun/public_html/album/views/index/index.php on line 3
+[06-Apr-2014 13:25:20 America/New_York] PHP Warning:  require_once() [<a href='function.require-once'>function.require-once</a>]: http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/whatyoun/public_html/album/views/index/index.php on line 3
+[06-Apr-2014 13:25:20 America/New_York] PHP Warning:  require_once(http://album.ocdao.net/public/custom_php/iwanago.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: no suitable wrapper could be found in /home/whatyoun/public_html/album/views/index/index.php on line 3
+[06-Apr-2014 13:25:20 America/New_York] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'http://album.ocdao.net/public/custom_php/iwanago.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/whatyoun/public_html/album/views/index/index.php on line 3
+[07-Apr-2014 11:43:46 America/New_York] PHP Parse error:  syntax error, unexpected T_VAR in /home/whatyoun/public_html/album/public/custom_php/iwanago.php on line 5
+[07-Apr-2014 11:43:46 America/New_York] PHP Parse error:  syntax error, unexpected T_VAR in /home/whatyoun/public_html/album/public/custom_php/iwanago.php on line 5
+[07-Apr-2014 11:45:41 America/New_York] PHP Parse error:  syntax error, unexpected T_VAR in /home/whatyoun/public_html/album/public/custom_php/iwanago.php on line 5
+[07-Apr-2014 11:45:41 America/New_York] PHP Parse error:  syntax error, unexpected T_VAR in /home/whatyoun/public_html/album/public/custom_php/iwanago.php on line 5
+[07-Apr-2014 11:53:26 America/New_York] PHP Parse error:  syntax error, unexpected T_VAR in /home/whatyoun/public_html/album/public/custom_php/iwanago.php on line 5
+[07-Apr-2014 11:53:26 America/New_York] PHP Parse error:  syntax error, unexpected T_VAR in /home/whatyoun/public_html/album/public/custom_php/iwanago.php on line 5
+[07-Apr-2014 11:54:37 America/New_York] PHP Parse error:  syntax error, unexpected T_VAR in /home/whatyoun/public_html/album/public/custom_php/iwanago.php on line 5
+[07-Apr-2014 11:54:38 America/New_York] PHP Parse error:  syntax error, unexpected T_VAR in /home/whatyoun/public_html/album/public/custom_php/iwanago.php on line 5
+[07-Apr-2014 11:54:40 America/New_York] PHP Parse error:  syntax error, unexpected T_VAR in /home/whatyoun/public_html/album/public/custom_php/iwanago.php on line 5
+[07-Apr-2014 11:54:41 America/New_York] PHP Parse error:  syntax error, unexpected T_VAR in /home/whatyoun/public_html/album/public/custom_php/iwanago.php on line 5
+[07-Apr-2014 11:54:41 America/New_York] PHP Parse error:  syntax error, unexpected T_VAR in /home/whatyoun/public_html/album/public/custom_php/iwanago.php on line 5
+[07-Apr-2014 11:54:42 America/New_York] PHP Parse error:  syntax error, unexpected T_VAR in /home/whatyoun/public_html/album/public/custom_php/iwanago.php on line 5
+[07-Apr-2014 11:59:45 America/New_York] PHP Parse error:  syntax error, unexpected T_VAR in /home/whatyoun/public_html/album/public/custom_php/iwanago.php on line 5
+[07-Apr-2014 11:59:47 America/New_York] PHP Parse error:  syntax error, unexpected T_VAR in /home/whatyoun/public_html/album/public/custom_php/iwanago.php on line 5
+[07-Apr-2014 12:05:03 America/New_York] PHP Parse error:  syntax error, unexpected T_VAR in /home/whatyoun/public_html/album/public/custom_php/iwanago.php on line 6
+[07-Apr-2014 12:05:04 America/New_York] PHP Parse error:  syntax error, unexpected T_VAR in /home/whatyoun/public_html/album/public/custom_php/iwanago.php on line 6
+[07-Apr-2014 13:11:30 America/New_York] PHP Fatal error:  Class 'Unicode_String' not found in /home/whatyoun/public_html/album/public/custom_php/iwanago.php on line 398
+[07-Apr-2014 13:11:32 America/New_York] PHP Fatal error:  Class 'Unicode_String' not found in /home/whatyoun/public_html/album/public/custom_php/iwanago.php on line 398
+[08-Apr-2014 02:03:46 America/New_York] PHP Warning:  utf8_encode() expects exactly 1 parameter, 2 given in /home/whatyoun/public_html/album/test.php on line 20
+[08-Apr-2014 13:33:13 America/New_York] PHP Warning:  require_once(/public/custom_php/iwanago.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/whatyoun/public_html/album/views/index/index.php on line 3
+[08-Apr-2014 13:33:13 America/New_York] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/public/custom_php/iwanago.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/whatyoun/public_html/album/views/index/index.php on line 3
+[09-Jun-2014 01:37:31 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000] [1203] User whatyoun_izae already has more than 'max_user_connections' active connections' in /home/whatyoun/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/whatyoun/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'whatyoun_izae', 'pU,Ln?x%bnia')
+#1 /home/whatyoun/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/whatyoun/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/whatyoun/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/whatyoun/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/whatyoun/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/whatyoun/public_html/album/libs/Database.php on line 8
+[09-Jun-2014 01:37:31 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000] [1203] User whatyoun_izae already has more than 'max_user_connections' active connections' in /home/whatyoun/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/whatyoun/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'whatyoun_izae', 'pU,Ln?x%bnia')
+#1 /home/whatyoun/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/whatyoun/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/whatyoun/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/whatyoun/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/whatyoun/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/whatyoun/public_html/album/libs/Database.php on line 8
+[10-Jun-2014 20:47:54 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000] [1203] User whatyoun_izae already has more than 'max_user_connections' active connections' in /home/whatyoun/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/whatyoun/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'whatyoun_izae', 'pU,Ln?x%bnia')
+#1 /home/whatyoun/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/whatyoun/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/whatyoun/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/whatyoun/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/whatyoun/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/whatyoun/public_html/album/libs/Database.php on line 8
+[11-Jun-2014 01:54:16 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000] [1203] User whatyoun_izae already has more than 'max_user_connections' active connections' in /home/whatyoun/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/whatyoun/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'whatyoun_izae', 'pU,Ln?x%bnia')
+#1 /home/whatyoun/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/whatyoun/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/whatyoun/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/whatyoun/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/whatyoun/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/whatyoun/public_html/album/libs/Database.php on line 8
+[11-Jun-2014 01:54:16 America/New_York] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000] [1203] User whatyoun_izae already has more than 'max_user_connections' active connections' in /home/whatyoun/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/whatyoun/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'whatyoun_izae', 'pU,Ln?x%bnia')
+#1 /home/whatyoun/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/whatyoun/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/whatyoun/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/whatyoun/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/whatyoun/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/whatyoun/public_html/album/libs/Database.php on line 8
+[14-Jun-2014 05:27:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/views/index/index.php:9) in /home/ocd4f2c0/public_html/album/public/custom_php/iwanago.php on line 2
+[14-Jun-2014 05:27:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/views/index/index.php:9) in /home/ocd4f2c0/public_html/album/public/custom_php/iwanago.php on line 2
+[14-Jun-2014 05:28:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/views/index/index.php:9) in /home/ocd4f2c0/public_html/album/public/custom_php/iwanago.php on line 2
+[14-Jun-2014 05:28:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/views/index/index.php:9) in /home/ocd4f2c0/public_html/album/public/custom_php/iwanago.php on line 2
+[14-Jun-2014 05:28:24 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'whatyoun_izae'@'localhost' (using password: YES)' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'whatyoun_izae', 'pU,Ln?x%bnia')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/guest_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Guest_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('guest')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[14-Jun-2014 05:37:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/views/index/index.php:9) in /home/ocd4f2c0/public_html/album/public/custom_php/iwanago.php on line 2
+[14-Jun-2014 05:39:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/views/index/index.php:9) in /home/ocd4f2c0/public_html/album/public/custom_php/iwanago.php on line 2
+[14-Jun-2014 05:40:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/views/index/index.php:9) in /home/ocd4f2c0/public_html/album/public/custom_php/iwanago.php on line 2
+[14-Jun-2014 05:42:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/views/index/index.php:9) in /home/ocd4f2c0/public_html/album/public/custom_php/iwanago.php on line 2
+[14-Jun-2014 07:45:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/views/index/index.php:9) in /home/ocd4f2c0/public_html/album/public/custom_php/iwanago.php on line 2
+[14-Jun-2014 07:45:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/views/index/index.php:9) in /home/ocd4f2c0/public_html/album/public/custom_php/iwanago.php on line 2
+[14-Jun-2014 08:23:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/views/index/index.php:9) in /home/ocd4f2c0/public_html/album/public/custom_php/iwanago.php on line 2
+[14-Jun-2014 08:23:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/views/index/index.php:9) in /home/ocd4f2c0/public_html/album/public/custom_php/iwanago.php on line 2
+[14-Jun-2014 08:25:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/views/index/index.php:9) in /home/ocd4f2c0/public_html/album/public/custom_php/iwanago.php on line 2
+[14-Jun-2014 08:25:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/views/index/index.php:9) in /home/ocd4f2c0/public_html/album/public/custom_php/iwanago.php on line 2
+[14-Jun-2014 08:25:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/views/index/index.php:9) in /home/ocd4f2c0/public_html/album/public/custom_php/iwanago.php on line 2
+[14-Jun-2014 08:26:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/views/index/index.php:9) in /home/ocd4f2c0/public_html/album/public/custom_php/iwanago.php on line 2
+[14-Jun-2014 08:27:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/views/index/index.php:9) in /home/ocd4f2c0/public_html/album/public/custom_php/iwanago.php on line 2
+[14-Jun-2014 08:28:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/views/index/index.php:9) in /home/ocd4f2c0/public_html/album/public/custom_php/iwanago.php on line 2
+[14-Jun-2014 08:29:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/views/index/index.php:9) in /home/ocd4f2c0/public_html/album/public/custom_php/iwanago.php on line 2
+[14-Jun-2014 08:30:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/views/index/index.php:9) in /home/ocd4f2c0/public_html/album/public/custom_php/iwanago.php on line 2
+[14-Jun-2014 08:30:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/views/index/index.php:9) in /home/ocd4f2c0/public_html/album/public/custom_php/iwanago.php on line 2
+[14-Jun-2014 08:32:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/views/index/index.php:9) in /home/ocd4f2c0/public_html/album/public/custom_php/iwanago.php on line 2
+[14-Jun-2014 08:32:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/views/index/index.php:9) in /home/ocd4f2c0/public_html/album/public/custom_php/iwanago.php on line 2
+[14-Jun-2014 08:34:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/views/index/index.php:9) in /home/ocd4f2c0/public_html/album/public/custom_php/iwanago.php on line 2
+[14-Jun-2014 08:34:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/views/index/index.php:9) in /home/ocd4f2c0/public_html/album/public/custom_php/iwanago.php on line 2
+[23-Jun-2014 15:55:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2002] No such file or directory' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/guest_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Guest_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('guest')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[28-Jun-2014 01:00:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/models/mem_model.php:257) in /home/ocd4f2c0/public_html/album/controllers/mem.php on line 306
+[28-Jun-2014 01:02:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/models/mem_model.php:257) in /home/ocd4f2c0/public_html/album/controllers/mem.php on line 306
+[28-Jun-2014 01:03:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/models/mem_model.php:257) in /home/ocd4f2c0/public_html/album/controllers/mem.php on line 306
+[28-Jun-2014 01:04:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/models/mem_model.php:257) in /home/ocd4f2c0/public_html/album/controllers/mem.php on line 306
+[28-Jun-2014 01:18:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/models/mem_model.php:257) in /home/ocd4f2c0/public_html/album/controllers/mem.php on line 306
+[28-Jun-2014 01:19:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/models/mem_model.php:257) in /home/ocd4f2c0/public_html/album/controllers/mem.php on line 306
+[28-Jun-2014 01:20:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/models/mem_model.php:257) in /home/ocd4f2c0/public_html/album/controllers/mem.php on line 306
+[28-Jun-2014 06:00:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/models/mem_model.php:257) in /home/ocd4f2c0/public_html/album/controllers/mem.php on line 306
+[09-Jul-2014 14:29:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/controllers/guest.php:52) in /home/ocd4f2c0/public_html/album/controllers/guest.php on line 56
+[09-Jul-2014 14:32:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/controllers/guest.php:52) in /home/ocd4f2c0/public_html/album/controllers/guest.php on line 56
+[29-Jul-2014 15:18:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/models/mem_model.php:286) in /home/ocd4f2c0/public_html/album/controllers/mem.php on line 309
+[29-Jul-2014 15:18:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/models/mem_model.php:286) in /home/ocd4f2c0/public_html/album/controllers/mem.php on line 309
+[29-Jul-2014 15:19:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/models/mem_model.php:286) in /home/ocd4f2c0/public_html/album/controllers/mem.php on line 309
+[29-Jul-2014 15:23:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/models/mem_model.php:286) in /home/ocd4f2c0/public_html/album/controllers/mem.php on line 309
+[29-Jul-2014 15:24:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/models/mem_model.php:286) in /home/ocd4f2c0/public_html/album/controllers/mem.php on line 309
+[29-Jul-2014 15:27:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/models/mem_model.php:286) in /home/ocd4f2c0/public_html/album/controllers/mem.php on line 309
+[29-Jul-2014 15:29:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/models/mem_model.php:286) in /home/ocd4f2c0/public_html/album/controllers/mem.php on line 309
+[29-Jul-2014 15:29:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/models/mem_model.php:286) in /home/ocd4f2c0/public_html/album/controllers/mem.php on line 309
+[29-Jul-2014 15:31:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/models/mem_model.php:286) in /home/ocd4f2c0/public_html/album/controllers/mem.php on line 310
+[29-Jul-2014 15:33:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/models/mem_model.php:286) in /home/ocd4f2c0/public_html/album/controllers/mem.php on line 309
+[29-Jul-2014 15:34:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/models/mem_model.php:286) in /home/ocd4f2c0/public_html/album/controllers/mem.php on line 310
+[29-Jul-2014 15:36:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/models/mem_model.php:286) in /home/ocd4f2c0/public_html/album/controllers/mem.php on line 310
+[29-Jul-2014 15:44:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/models/mem_model.php:287) in /home/ocd4f2c0/public_html/album/controllers/mem.php on line 309
+[29-Jul-2014 15:45:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/models/mem_model.php:288) in /home/ocd4f2c0/public_html/album/controllers/mem.php on line 309
+[29-Jul-2014 15:48:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ocd4f2c0/public_html/album/models/mem_model.php:286) in /home/ocd4f2c0/public_html/album/controllers/mem.php on line 309
+[19-Aug-2014 13:50:43 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:50:43 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:50:43 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:50:46 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:50:46 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:50:46 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:50:47 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:50:47 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:50:47 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:50:47 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:50:47 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:50:47 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:50:47 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:50:47 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:50:47 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:50:50 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:50:50 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:50:50 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:50:50 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:50:50 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:50:50 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:50:50 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:50:50 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:50:50 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:50:50 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:50:50 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:50:50 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:51:11 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:51:11 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:51:11 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:51:13 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:51:13 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:51:13 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:51:15 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:51:15 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:51:15 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:51:43 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:51:43 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:51:43 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:51:51 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:51:51 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:51:51 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:51:52 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:51:52 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:51:52 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:42 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:42 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:42 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:43 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:43 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:43 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:44 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:44 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:44 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:44 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:44 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:44 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:44 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:44 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:44 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:44 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:44 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:44 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:45 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:45 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:45 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:46 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:46 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:46 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:47 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:47 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:47 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:48 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:48 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:48 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:48 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:48 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:48 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:48 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:48 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:48 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:48 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:48 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:48 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:49 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:49 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:49 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:49 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:49 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:49 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:50 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:50 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:50 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:53 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:53 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:52:53 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:53:44 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:53:44 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:53:44 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:53:51 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:53:51 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:53:51 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:37 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:37 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:37 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:38 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:38 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:38 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:38 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:38 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:38 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:39 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:39 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:39 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:39 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:39 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:39 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:40 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:40 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:40 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:40 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:40 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:40 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:41 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:41 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:41 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:41 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:41 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:41 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:42 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:42 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:42 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:42 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:42 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:42 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:42 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:42 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:42 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:43 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:43 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:43 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:43 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:43 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:43 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:43 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:43 UTC] PHP Warning:  require(config/global.php): failed to open stream: Permission denied in /home/ocd4f2c0/public_html/album/index.php on line 14
+[19-Aug-2014 13:54:43 UTC] PHP Fatal error:  require(): Failed opening required 'config/global.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ocd4f2c0/public_html/album/index.php on line 14
+[25-Sep-2014 22:05:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/guest_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Guest_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('guest')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 22:13:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 22:14:29 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 22:14:32 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 22:14:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 22:14:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 22:14:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 22:57:27 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/guest_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Guest_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('guest')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:03:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:04:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:04:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:14:07 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:14:08 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:14:12 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:14:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:14:14 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:14:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:14:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:14:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:14:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:15:27 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:39:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/guest_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Guest_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('guest')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:44:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:45:11 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:45:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:45:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:46:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:46:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:46:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:46:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:46:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:46:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:47:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:47:08 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:47:11 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:47:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:47:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:48:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:48:18 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:48:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:48:46 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:51:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:51:24 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:53:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:54:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:55:11 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:56:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[25-Sep-2014 23:56:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[26-Sep-2014 00:39:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/guest_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Guest_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('guest')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[15-Oct-2014 10:39:49 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/guest_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Guest_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('guest')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[15-Oct-2014 10:40:03 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/guest_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Guest_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('guest')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[15-Oct-2014 10:40:20 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/guest_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Guest_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('guest')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[15-Oct-2014 21:00:46 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[15-Oct-2014 21:00:53 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[16-Oct-2014 11:04:41 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 04:30:07 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/guest_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Guest_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('guest')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 09:02:45 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 09:02:45 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 09:02:48 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 09:02:48 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 09:02:55 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 09:03:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 09:03:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 09:03:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 10:23:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 10:37:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 10:39:25 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 10:39:25 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 10:39:25 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 10:39:25 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 10:39:25 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 10:39:25 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 10:39:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 12:15:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 12:15:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 12:15:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 12:15:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 12:15:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 12:15:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 12:15:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 12:15:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 12:15:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 12:15:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 12:15:07 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 13:55:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/guest_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Guest_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('guest')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 13:55:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/guest_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Guest_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('guest')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 13:56:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 14:26:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/guest_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Guest_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('guest')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 14:37:03 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 14:46:08 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 14:47:11 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 14:47:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 14:47:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 14:47:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 14:47:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 14:47:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 14:47:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 14:58:54 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 14:59:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 14:59:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 14:59:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 14:59:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 14:59:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 14:59:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 14:59:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 14:59:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 14:59:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 14:59:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 14:59:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 14:59:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 14:59:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 14:59:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 14:59:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 16:29:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 16:29:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 16:53:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 16:58:24 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 16:58:48 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 16:58:56 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/guest_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Guest_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('guest')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 17:06:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 17:06:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 17:06:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 17:06:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 17:06:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 17:06:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 17:06:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 17:06:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 17:06:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 17:06:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 17:06:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 17:06:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[22-Oct-2014 17:06:43 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[23-Oct-2014 00:06:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[23-Oct-2014 02:31:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[23-Oct-2014 02:31:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[23-Oct-2014 02:31:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[23-Oct-2014 02:31:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[23-Oct-2014 02:31:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[08004] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[23-Oct-2014 02:31:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[23-Oct-2014 02:32:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[23-Oct-2014 02:39:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/guest_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Guest_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('guest')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[23-Oct-2014 02:39:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/guest_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Guest_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('guest')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[23-Oct-2014 02:39:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[23-Oct-2014 02:40:14 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/guest_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Guest_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('guest')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[23-Oct-2014 02:40:19 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[23-Oct-2014 02:56:56 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8
+[23-Oct-2014 02:57:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1040] Too many connections' in /home/ocd4f2c0/public_html/album/libs/Database.php:8
+Stack trace:
+#0 /home/ocd4f2c0/public_html/album/libs/Database.php(8): PDO->__construct('mysql:host=loca...', 'ocd4f2c0_langtu', '?Q1?=2V~yWk-')
+#1 /home/ocd4f2c0/public_html/album/libs/Model.php(6): Database->__construct()
+#2 /home/ocd4f2c0/public_html/album/models/mem_model.php(7): Model->__construct()
+#3 /home/ocd4f2c0/public_html/album/libs/Controller.php(18): Mem_Model->__construct()
+#4 /home/ocd4f2c0/public_html/album/libs/Bootstrap.php(29): Controller->loadModel('mem')
+#5 /home/ocd4f2c0/public_html/album/index.php(17): Bootstrap->__construct()
+#6 {main}
+  thrown in /home/ocd4f2c0/public_html/album/libs/Database.php on line 8

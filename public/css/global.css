@@ -1,0 +1,49 @@
+/**************clearfix*************/
+.clearfix:after 
+{ 
+	content: "."; 
+	display: block; 
+	clear: both; 
+	visibility: hidden; 
+	line-height: 0;
+	height: 0; 
+} 
+/***
+.clearfix 
+{ 
+	display: inline-block; 
+}
+***/
+html[xmlns] .clearfix { display: block; } 
+* html .clearfix { height: 1%; }
+
+
+/*************text active********************/
+.defaultTextActive
+{
+    color: #a1a1a1; 
+    font-style: italic;
+}
+
+/***
+*
+{
+    font-family: 'Trebuchet MS',sans-serif,tahoma,verdana,arial;
+}
+**/
+
+.hide
+{
+    display: block;
+    visibility: hidden;
+}
+
+*
+{
+    font-family: 'Open Sans Light',sans-serif;
+}
+
+img.loadingimg{
+    width: 40px;
+    height: 40px;
+}

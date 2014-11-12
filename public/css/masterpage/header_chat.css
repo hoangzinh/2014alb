@@ -1,0 +1,209 @@
+* {padding:0px; margin: 0px;}
+/****************main area****************/
+#header_area
+{
+    width: 100%;
+    min-width:1000px;
+    height: 58px;  
+    background-color:#FCFDFF;
+    border-bottom-style: solid;
+    border-bottom-width: 20px;
+    border-bottom-color: #9ECDF4;
+}
+
+#body_area
+{
+    width:100%;
+    min-width:1000px;
+    min-height:500px;
+    
+    background-color: #FCFDFF;
+    /*background-image: url('../images/common/background.jpg'); background-repeat: repeat; */
+}
+
+/*******************header area****************/
+#header_container
+{
+    width: 1000px;
+    height: 100%;
+    position: relative;
+    margin: 0 auto;    
+}
+
+#menu_container
+{
+    float:left;
+}
+
+#logo
+{
+    position:absolute;
+}
+
+
+#mainlogo
+{
+    float:left;
+}
+
+#sublogo
+{
+    background: url('../../img/global/chatlogo.png');
+    width: 200px;
+    height: 105px;
+    display: block;
+}
+
+#sublogo:hover
+{ 
+    background: url('../../img/global/chatlogo_hi.gif'); 
+}
+
+
+#topright_area
+{
+    float:right;
+    margin-top:7px;
+}
+
+#btsignOut
+{
+    background-color:#C75050;
+    border-radius:20px;
+    -moz-border-radius:20px;
+    -webkit-border-radius:20px;        
+    border:0;
+    padding:5px 10px 5px 10px;
+    text-decoration:none;
+    color: white;
+}
+
+#btsignOut:hover
+{
+    cursor:pointer;
+    background-color:#03ff4a;
+}
+
+#topright_area div
+{
+    display:inline;
+    margin-right:5px;
+}
+.nameuser
+{
+    color:#51f6a0;
+    font-size:large;
+}
+
+/*******************header area****************/
+
+#middleHeader_area
+{
+    float:left;
+    margin:30px 0 0 350px;
+}
+
+#middleHeader_area li
+{
+    display:inline;    
+    margin-right: 30px;        
+}
+
+#middleHeader_area li a 
+{
+    text-transform: uppercase;
+    text-decoration:none;
+    color: #464D57;
+    font-size: 13px;
+    font-weight: bold;    
+}
+
+#middleHeader_area li a:hover
+{
+    color: #05A3E5;
+}
+
+/*********************menu****************************/
+
+#submenu
+{
+    position:relative;
+    z-index:2010;
+    display:none;
+}
+
+#submenu > li
+{
+    list-style:none;
+    width:1000px;
+    height:100px;
+    background-color:#FFFFFF;
+    text-align:center;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-right-color: #DDDDDD;
+    border-bottom-color: #DDDDDD;
+    border-left-color: #DDDDDD;
+}
+
+div.category_container
+{
+	float:left;
+	width:150px;
+	background-color:#F5F5F5;
+	height:100%;
+	border-right:solid 1px #DDDDDD;
+}
+
+div.category_container img
+{
+    width:60px;
+    height:50px;
+}
+
+
+ul.listRoom li
+{    
+    display: block;
+    list-style: none;
+    float: left;
+    height: 90px;
+    width: 90px;
+    margin: 5px;
+    background-image: url('../images/room/icon_closeroom.png');
+    background-repeat: no-repeat;         
+    -webkit-background-size: cover; /*for webKit*/
+    -moz-background-size: cover; /*Mozilla*/
+    -o-background-size: cover; /*opera*/
+    background-size: cover; /*generic*/ 
+    
+}
+
+ul.listRoom li:hover
+{
+    margin:3px;
+    height:94px;
+    width:94px;
+    cursor:pointer;
+    background-image: url('../images/room/icon_openroom.png');
+    background-repeat: no-repeat;     
+    -webkit-background-size: cover; /*for webKit*/
+    -moz-background-size: cover; /*Mozilla*/
+    -o-background-size: cover; /*opera*/
+    background-size: cover; /*generic*/    
+}
+
+ul.listRoom p.chooseRoom
+{
+    margin-top:10px;
+}
+
+ul.listRoom p.num_memInRoom
+{
+    margin-top:6px;
+}
+

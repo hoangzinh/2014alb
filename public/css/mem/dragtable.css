@@ -1,0 +1,16 @@
+
+#table-photo tr.myDragClass td {
+    /*position: fixed;*/
+    color: white;
+    text-shadow: 0 0 10px black, 0 0 10px black, 0 0 8px black, 0 0 6px black, 0 0 6px black;
+    background-color: black;
+    -webkit-box-shadow: 0 12px 14px -12px #111 inset, 0 -2px 2px -1px #333 inset;
+}
+
+
+#table-photo tr td.showDragHandle {
+	background-image: url(../../images/updown2.gif);
+	background-repeat: no-repeat;
+	background-position: center center;
+	cursor: move;
+}
