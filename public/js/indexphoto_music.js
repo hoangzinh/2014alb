@@ -113,7 +113,7 @@ $(document).ready(function() {
 
         var src = $("#tab1 embed").attr('src');
         var zing = "mp3.zing.vn";
-        if (src.indexOf(zing) != -1)
+        if (typeof src != 'undefined' && src.indexOf(zing) != -1)
         {
                 $('ul.etabs a[href$="#tab1"]').click();
                 setTimeout(function () {

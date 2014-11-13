@@ -32,6 +32,34 @@
 
     <script type="text/javascript" src="<?php echo URL; ?>public/js/indexphoto_music.js"></script>	    
 	<script src="<?php echo URL; ?>public/js/facebook.js"></script>
+
+	<?php if (!$this->is_flash){ ?>
+	<link href="<?php echo URL; ?>public/thirdparty/jplayer/skin/blue.monday/jplayer.blue.monday.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="<?php echo URL; ?>public/thirdparty/jplayer/js/jquery.jplayer.min.js"></script>
+	<script type="text/javascript" src="<?php echo URL; ?>public/thirdparty/jplayer/js/jplayer.playlist.min.js"></script>
+	<script type="text/javascript">
+	$(document).ready(function(){
+	
+		player = new jPlayerPlaylist({
+			jPlayer: "#jquery_jplayer_1",
+			cssSelectorAncestor: "#jp_container_1"
+		}, [
+	<?php echo $this->music_album; ?>
+		], {
+		swfPath: "<?php echo URL; ?>public/thirdparty/jplayer/js",
+			supplied: "oga, mp3",
+			wmode: "window",
+			smoothPlayBar: true,
+			keyEnabled: false,
+			loop: true 
+		});
+
+		setTimeout(function() {
+			player.play();
+		}, 1000);
+	});
+	</script>
+	<?php } ?>
 </head>
 <body>
 <div id="fb-root"></div>
@@ -78,7 +106,13 @@ jQuery(function($){
     
 <div id='tab1' class='tab-id center'>
 <?php
-   echo '<embed src="'.$this->music_album.'" flashvars="target=blank&autostart=true" allowscriptaccess="always" allowfullscreen="true" quality="high" wmode="transparent" type="application/x-shockwave-flash" width="420" height="286"></embed>';
+   // echo '<embed src="'.$this->music_album.'" flashvars="target=blank&autostart=true" allowscriptaccess="always" allowfullscreen="true" quality="high" wmode="transparent" type="application/x-shockwave-flash" width="420" height="286"></embed>';
+?>
+<?php
+	if ($this->is_flash)
+		require 'libs/Music/player/flash.php';
+	else
+		require 'libs/Music/player/jplayer.php';
 ?>
 </div>
 

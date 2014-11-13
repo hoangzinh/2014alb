@@ -63,14 +63,14 @@ class Mem_Model extends Model
         function getInfoAlbum($id_album)
         {
 			$sth = $this->db->prepare("SELECT alb.name_album,mu.music,mu.music_embed,st.title,st.content 
-				FROM ".DB_PREFIX."list_albums alb LEFT JOIN ".DB_PREFIX."list_musics mu ON alb.id = mu.id_album LEFT JOIN "DB_PREFIX."story_album st ON alb.id = st.id_album 
+				FROM ".DB_PREFIX."list_albums alb LEFT JOIN ".DB_PREFIX."list_musics mu ON alb.id = mu.id_album LEFT JOIN ".DB_PREFIX."story_album st ON alb.id = st.id_album 
 				WHERE alb.id= :id_album");
             $sth->execute(array(
                     ':id_album' => $id_album
             ));
 
             $data = $sth->fetchAll();
-            return $data[0];
+			return $data[0];
 		}
 
         // function getStoryAlbum($id_album)

@@ -246,6 +246,7 @@ class Mem extends Controller {
                 $this->view->music_album = "http://www.nhaccuatui.com/l/nxmVCbf0A60J";
             else
                 $this->view->music_album = $data_info['music_embed'];
+			$this->view->is_flash = $data_info['is_flash'];
             $this->view->name_album = $data_info['name_album'];
             
             //photos
