@@ -34,7 +34,7 @@
 	<script src="<?php echo URL; ?>public/js/facebook.js"></script>
 
 	<?php if (!$this->is_flash){ ?>
-	<link href="<?php echo URL; ?>public/thirdparty/jplayer/skin/blue.monday/jplayer.blue.monday.css" rel="stylesheet" type="text/css" />
+	<link href="<?php echo URL; ?>public/thirdparty/jplayer/skin/my.skin/jplayer.blue.monday.css" rel="stylesheet" type="text/css" />
 	<script type="text/javascript" src="<?php echo URL; ?>public/thirdparty/jplayer/js/jquery.jplayer.min.js"></script>
 	<script type="text/javascript" src="<?php echo URL; ?>public/thirdparty/jplayer/js/jplayer.playlist.min.js"></script>
 	<script type="text/javascript">

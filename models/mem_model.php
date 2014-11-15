@@ -72,29 +72,6 @@ class Mem_Model extends Model
             $data = $sth->fetchAll();
 			return $data[0];
 		}
-
-        // function getStoryAlbum($id_album)
-        // {
-        //     $sth = $this->db->prepare("SELECT title,content FROM ".DB_PREFIX."story_album WHERE 
-		// 		id_album = :id_album");
-        //     $sth->execute(array(
-        //             ':id_album' => $id_album
-        //     ));
-        //
-        //     $data = $sth->fetchAll();
-        //     return $data;
-        // }
-        // function getInfoAlbum($id_album)
-        // {
-        //     $sth = $this->db->prepare("SELECT name_album,music_embed FROM ".DB_PREFIX."list_albums WHERE 
-		// 		id = :id_album ");
-        //     $sth->execute(array(
-        //             ':id_album' => $id_album
-        //     ));
-        //
-        //     $data = $sth->fetchAll();
-        //     return $data;
-        // }
         
         function getNameAndMusicAlbum($id_album)
         {
@@ -136,17 +113,24 @@ class Mem_Model extends Model
         //edit function
         function updateInfoAlbum($id_album,$name_album,$link_music)
         {
-            $url_embed = $this->getURLembed($link_music);
-            
             $sth = $this->db->prepare("UPDATE ".DB_PREFIX."list_albums SET 
-				name_album = :name_album , music = :link_music, music_embed = :music_embed WHERE 
+				name_album = :name_album WHERE 
                                 id = :id_album");
             $sth->execute(array(
                     ':id_album' => $id_album,
-                    ':name_album' => $name_album,
-                    ':link_music' => $link_music,
-                    ':music_embed' => $url_embed
-            ));
+                    ':name_album' => $name_album
+				));
+
+			$url_embed = get_link_music_embed($link_music);
+			$sth = $this->db->prepare("UPDATE ".DB_PREFIX."list_musics SET 
+				music = :music,music_embed = :music_embed, is_flash = :is_flash WHERE 
+                                id_album = :id_album");
+            $sth->execute(array(
+                    ':id_album' => $id_album,
+					':music' => $link_music,
+					':music_embed' => $url_embed['data'],
+					':is_flash' => $url_embed['is_flash']
+			));
         }
         
         function updateStoryAlbum($id_album,$title_story,$content_story)

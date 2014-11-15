@@ -72,14 +72,14 @@ $(document).ready(function() {
             $(this).on('click', 'a', function(e){
               // Make the old tab inactive.
               $active.removeClass('active');
-                  if($active.attr('href') == "#tab1")
-                    {
-						$("#tab1 embed").attr("width",1);
-						$("#tab1 embed").attr("height",1);
-                      $("#tab1").removeClass("tab-id");
-                    }
-                  else
-                    $content.hide();
+			  // if($active.attr('href') == "#tab1")
+				// {
+				// 	$("#tab1 embed").attr("width",1);
+				// 	$("#tab1 embed").attr("height",1);
+				//   $("#tab1").removeClass("tab-id");
+				// }
+			  // else
+				$content.hide();
 
               // Update the variables with the new link and content
               $active = $(this);
@@ -87,13 +87,13 @@ $(document).ready(function() {
 
               // Make the tab active.
               $active.addClass('active');
-            if($active.attr('href') == "#tab1")
-              {
-                $("#tab1 embed").attr("width",300);
-                $("#tab1 embed").attr("height",286);
-                $("#tab1").addClass("tab-id");
-              }
-            else
+            // if($active.attr('href') == "#tab1")
+            //   {
+            //     $("#tab1 embed").attr("width",300);
+            //     $("#tab1 embed").attr("height",286);
+            //     $("#tab1").addClass("tab-id");
+            //   }
+            // else
               $content.show();
                 
               if($active.attr('href') == '#tab-close')

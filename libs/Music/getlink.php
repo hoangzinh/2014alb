@@ -50,8 +50,8 @@
 
 		$data = NULL;
 		foreach ($songs->track as $song){
-			$title=$song->title;
-			$src=$song->location;
+			$title = normalize_string_music($song->title);
+			$src = normalize_string_music($song->location);
 			$data .= '{title:"'.$title.'",mp3:"'.$src.'"},';
 		}
 		$data[strlen($data) - 1]= ' ';
@@ -77,8 +77,8 @@
 
 		$data = NULL;
 		foreach ($songs->item as $song){
-			$title=$song->title;
-			$src=$song->source;
+			$title = normalize_string_music($song->title);
+			$src = normalize_string_music($song->source);
 			$data .= '{title:"'.$title.'",mp3:"'.$src.'"},';
 		}
 		$data[strlen($data) - 1]= ' ';
@@ -95,6 +95,11 @@
 			"is_flash" => $is_flash,
 		);
 	}
+
+	function normalize_string_music($string){
+		return trim(preg_replace('/\s\s+/', ' ', $string));
+	}
+
 	function parse_xml_music($data){
 		libxml_use_internal_errors(true);
 		if (function_exists("libxml_disable_entity_loader"))

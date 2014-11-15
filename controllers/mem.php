@@ -192,37 +192,20 @@ class Mem extends Controller {
             //load info
             $this->view->username = $_name_mem;
               
-            //thong tin album
-            $data_album = $this->model->getNameAndMusicAlbum($id_album);
-            if ($data_album == NULL)
-            {
-                $this->view->music_album = "";
-                $this->view->name_album = "";
-            }
-            else
-            {
-                $this->view->music_album = $data_album[0][1];
-                $this->view->name_album = $data_album[0][0];
-            }
+			//thong tin album
+			$data_info = $this->model->getInfoAlbum($id_album);
+			
+			$this->view->title_story = $data_info['title'];
+			$this->view->content_story = $data_info['content'];
+
+            //music && name
+			$this->view->music_album = $data_info['music'];
+            $this->view->name_album = $data_info['name_album'];
             
-            //get list photo
+			//get list photo
             $this->view->photo_album = $this->model->getInfoPhotosAlbum($id_album);
            
-            //story album
-            $data_story = $this->model->getStoryAlbum($id_album);
-            if ($data_story == NULL)
-            {
-                $this->view->title_story = "";
-                $this->view->content_story = "";
-            }else
-            {
-                $this->view->title_story = $data_story[0][0];
-                $this->view->content_story = $data_story[0][1];
-            }
-            
-            
-            $this->view->render('mem/update',"header_mem");
-            
+			$this->view->render('mem/update',"header_mem");
         }
         
         function mem_showalbum($name_mem,$id_album) {
