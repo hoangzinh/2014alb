@@ -9,14 +9,11 @@
     <meta property="og:image" content="<?php echo $this->share_photo; ?>" />
     <meta property="og:description" content="Tạo những ALBUM thật dễ thương từ HÌNH và NHẠC để tặng cho người mà bạn yêu quý" />
 
-
     <link rel="stylesheet" href="<?php echo URL; ?>public/css/gallery_css/supersized.css" type="text/css" media="screen" />
     <link rel="stylesheet" href="<?php echo URL; ?>public/css/gallery_css/supersized.shutter.css" type="text/css" media="screen" />
     
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    
     <script type="text/javascript" src="<?php echo URL; ?>public/js/gallery_js/jquery.easing.min.js"></script>
-
     <script type="text/javascript" src="<?php echo URL; ?>public/js/gallery_js/supersized.3.2.7.min.js"></script>
     <script type="text/javascript" src="<?php echo URL; ?>public/js/gallery_js/supersized.shutter.min.js"></script>
 
@@ -29,8 +26,7 @@
 
     <script type="text/javascript" src="<?php echo URL; ?>public/js/imageflow.js"></script>	
     <script type="text/javascript" src="<?php echo URL; ?>public/js/jquery.mCustomScrollbar.concat.min.js"></script>
-
-    <script type="text/javascript" src="<?php echo URL; ?>public/js/indexphoto_music.js"></script>	    
+    <script type="text/javascript" src="<?php echo URL; ?>public/js/indexphoto_music.js"></script>    
 	<script src="<?php echo URL; ?>public/js/facebook.js"></script>
 
 	<?php if (!$this->is_flash){ ?>
@@ -44,14 +40,14 @@
 			jPlayer: "#jquery_jplayer_1",
 			cssSelectorAncestor: "#jp_container_1"
 		}, [
-	<?php echo $this->music_album; ?>
-		], {
-		swfPath: "<?php echo URL; ?>public/thirdparty/jplayer/js",
-			supplied: "oga, mp3",
+			<?php echo $this->music_album; ?>
+			], {
+			swfPath: "<?php echo URL; ?>public/thirdparty/jplayer/js",
+			supplied: "mp3",
 			wmode: "window",
 			smoothPlayBar: true,
 			keyEnabled: false,
-			loop: true 
+			loop: true
 		});
 
 		setTimeout(function() {
@@ -82,7 +78,7 @@ jQuery(function($){
         // Functionality
         slide_interval          :   7000,		// Length between transitions
         transition              :   1, 			// 0-None, 1-Fade, 2-Slide Top, 3-Slide Right, 4-Slide Bottom, 5-Slide Left, 6-Carousel Right, 7-Carousel Left
-        fit_always                            :       1,
+        // fit_always                            :       1,
         transition_speed		:	700,		// Speed of transition
         stop_loop               : 0,
         image_path				:	"http://album.ocdao.net/public/img",										   
@@ -106,9 +102,6 @@ jQuery(function($){
     
 <div id='tab1' class='tab-id center'>
 <?php
-   // echo '<embed src="'.$this->music_album.'" flashvars="target=blank&autostart=true" allowscriptaccess="always" allowfullscreen="true" quality="high" wmode="transparent" type="application/x-shockwave-flash" width="420" height="286"></embed>';
-?>
-<?php
 	if ($this->is_flash)
 		require 'libs/Music/player/flash.php';
 	else
@@ -122,7 +115,6 @@ jQuery(function($){
     echo '<h4 id="info_title" ><img src="'.URL.'public/images/info_pen4.png" width="25" height="25"/> '.$this->title_story.'</h4>';
     echo '<p>'.$this->content_story.'</p>';
     ?>
-    
 </div>
 <div id='info_cmt'>
 <?php

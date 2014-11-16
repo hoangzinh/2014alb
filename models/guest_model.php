@@ -24,8 +24,8 @@ class Guest_Model extends Model
                 $result = $sth->fetchAll();
 
                 if ($result != NULL) {
-                    // login
-                    $this->setSession($result[0]['id']); 
+					// login
+					Session::refresh_session_login($this->db,$result[0]['id']);
                     $username = $result[0]['username'];
                     $data = array('error' => false,'content' => URL.'mem/'.$username);
                 }
@@ -78,7 +78,7 @@ class Guest_Model extends Model
             ));
 
 			if ($status){
-				$this->setSession($this->db->getInsertID());
+				Session::refresh_session_login($this->db,$this->db->getInsertID());
 				$data = array('error' => false, 'content' => URL.'mem/'.$username);
 			}else {
 				$data = array('error' => true, 'content' => 'Có lỗi sảy ra khi kết nối database, vui lòng đăng ký lại. Xin lỗi vì sự bất tiện này');                
@@ -232,12 +232,5 @@ class Guest_Model extends Model
         {
             header('location:'.URL.'error');                
             exit;
-        }
-        
-        public function setSession($userid){
-            Session::init();
-            Session::set('loggedIn', true);
-            Session::set('userid', $userid);
-            //Session::set('username', $username);
         }
 }

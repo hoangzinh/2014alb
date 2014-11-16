@@ -1,16 +1,17 @@
 <h3>Total: <?php echo count($this->data); ?></h3>
 
 <table class="table table-striped table-hover ">
-  <thead>
-    <tr>
-      <th>#</th>
-      <th>User</th>
-      <th>Email</th>
-      <th>Album</th>
-      <th>Date</th>
-    </tr>
-  </thead>
-  <tbody>
+	<thead>
+	<tr>
+		<th>#</th>
+		<th>User</th>
+		<th>Email</th>
+		<th>Album</th>
+		<th>Update</th>
+		<th>Date</th>
+	</tr>
+	</thead>
+	<tbody>
 <?php
 foreach ($this->data as $row) {
     //Removes whitespace or other predefined characters from the right side of a string
@@ -29,6 +30,7 @@ foreach ($this->data as $row) {
       <td><?php echo $row[1]; ?></td>
       <td><?php echo $row[3]; ?></td>
       <td><?php echo '<a href="'.URL.'mem/'.$row[1].'/'.$row[2].'-'.$string.'" target="_blank" class="list-group-item-heading name-album">'.$row[0].'</a>'; ?></td>
+      <td><?php echo '<a href="'.URL.'mem/admin/update?id_album='.$row[2].'" target="_blank" >Update</a>'; ?></td>
       <td><?php echo $row[4]; ?></td>
     </tr>
 <?php } ?>
