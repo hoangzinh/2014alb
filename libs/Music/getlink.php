@@ -86,7 +86,7 @@
 	}
 
 	function get_music_default($url){
-		return encapsulate_info_music('{title:"lấy SAI link nhạc rồi",mp3:""}',1);
+		return encapsulate_info_music('{title:"lấy SAI link nhạc rồi",mp3:""}',0);
 	}
 
 	function encapsulate_info_music($data,$is_flash){
