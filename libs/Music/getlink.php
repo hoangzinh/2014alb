@@ -1,4 +1,5 @@
 <?php
+	ob_start();
 	define("NHACCUATUI", 1);
 	define("ZING", 2);
 	define("CHIASENHAC", 3);
