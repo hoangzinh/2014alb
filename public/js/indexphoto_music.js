@@ -111,6 +111,21 @@ $(document).ready(function() {
 
 	$('ul.etabs a[href$="#tab-close"]').click();
 
+	//check if mobile device, open music box (HTML5 is not auto play)
+	var is_phone = (/android|webos|iphone|ipad|ipod|blackberry|iemobile|opera mini/i.test(navigator.userAgent.toLowerCase()));
+	if (is_phone == false)
+		$("#jp_container_1").hide();
+	else
+		$('ul.etabs a[href$="#tab1"]').click();
+
+	var click = document.ontouchstart === undefined ? 'click' : 'touchstart';
+	var kickoff = function () {
+		$("#jquery_jplayer_1").jPlayer("play");
+		document.documentElement.removeEventListener(click, kickoff, true);
+	};
+	document.documentElement.addEventListener(click, kickoff, true);
+
+	//for zing.vn embed is crash if hide before loading finish
 	var src = $("#tab1 embed").attr('src');
 	var zing = "mp3.zing.vn";
 	if (typeof src != 'undefined' && src.indexOf(zing) != -1)
