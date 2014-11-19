@@ -1,8 +1,10 @@
 <?php
 	ob_start();
+	define("UNDEFINE", 0);
 	define("NHACCUATUI", 1);
 	define("ZING", 2);
 	define("CHIASENHAC", 3);
+	define("YEUCAHAT", 4);
 
 	function get_link_music_embed($url){
 		$site = get_site_music($url);
@@ -17,6 +19,9 @@
 		case CHIASENHAC:
 			$url_embed = get_music_default($url);
 			break;
+		case YEUCAHAT:
+			$url_embed = get_music_from_yeucahat($url);
+			break;
 		default:
 			$url_embed = get_music_default($url);
 		}
@@ -30,6 +35,11 @@
 			return ZING;
 		if(strpos($url, "chiasenhac.com") !== false)
 			return CHIASENHAC;
+		if(strpos($url, "yeucahat.com") !== false)
+			return YEUCAHAT;
+
+		return UNDEFINE;
+
 	}
 
 	function get_music_from_nhaccuatui($url){
@@ -83,6 +93,36 @@
 			$data .= '{title:"'.$title.'",mp3:"'.$src.'"},';
 		}
 		$data[strlen($data) - 1]= ' ';
+		return encapsulate_info_music($data,0);
+	}
+
+	function get_music_from_yeucahat($url){
+		$page = _viewSource($url);
+		$pos = strpos($page, "audioUrl=");
+		if($pos === false)
+			return get_music_default($url);
+		$pos = strpos($page, "http",$pos);
+		$pos_end = strpos($page,"&autoPlay",$pos);
+		if($pos_end === false)
+			return get_music_default($url);
+		$src = substr($page,$pos,$pos_end - $pos);
+
+		//title
+		$title = "album.ocdao.net";
+		$pos = strpos($page, "maintitle");
+		if($pos !== false)
+		{
+			$pos = strpos($page, ">",$pos);
+			if($pos !== false)
+			{
+				$pos_end = strpos($page,"<",$pos);
+				if($pos_end !== false){
+					$title = substr($page,$pos+1,$pos_end - $pos -1);
+				}
+			}
+		}
+			
+		$data = '{title:"'.$title.'",mp3:"'.urldecode($src).'"}';
 		return encapsulate_info_music($data,0);
 	}
 
