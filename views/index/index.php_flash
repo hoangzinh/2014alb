@@ -32,12 +32,10 @@
 	<script type="text/javascript" src="<?php echo URL; ?>public/js/indexphoto_music.js"></script>
 	
 	<script src="<?php echo URL; ?>public/js/facebook.js"></script>
-	<?php
-		if (USE_FLASH)
-			include_once('public/custom_php/iwanago_flash.php');
-		else
-			include_once('public/custom_php/iwanago_jplayer.php');
-	?>    
+<?php
+include_once('public/custom_php/iwanago.php');
+?>    
+
 </head>
 <body>
 <div id="fb-root"></div>
@@ -60,14 +58,15 @@
 
 <!--Get content-->
 <?php
-	if(USE_FLASH)
+	if ($content_user_wanna_go)
 	{
-		if ($content_user_wanna_go)
-			echo $content_user_wanna_go;
-		else
-			echo "Lỗi khi xử lý. Vui lòng tải lại link hợp lệ";
+		echo $content_user_wanna_go;
+	} else
+	{
+		echo "Lỗi khi xử lý. Vui lòng tải lại link hợp lệ";
 	}
-?>
+?>	
+
 <div class="tab-container">
 
 <ul class='etabs'>	
