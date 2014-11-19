@@ -7,7 +7,8 @@ class Index extends Controller {
 	}
 	
 	function index() {
-            $this->view->render('index/index');
+		if(
+		$this->view->render('index/index');
 	}
 
 	function updatedfhawnasdfzsxlaqwwerusjd(){

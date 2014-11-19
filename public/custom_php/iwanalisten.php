@@ -1,91 +1,82 @@
-﻿<?php
+<?php
+$content_user_wanna_listen = NULL;
+$tmp_content = NULL;
 if(isset($_GET['thuongthuc']))
-{
-	$tmp_content = NULL;
-	$url = site_url();
+{	
 	switch ($_GET['thuongthuc'])
 	{
-	case "piano":
-		$tmp_content = 	'[
-							{
-								title:"Cro Magnon Man",
-								mp3:"http://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3"
-							},
-							{
-								title:"Your Face",
-								mp3:"http://www.jplayer.org/audio/mp3/TSP-05-Your_face.mp3"
-							},
-							{
-								title:"Cyber Sonnet",
-								mp3:"http://www.jplayer.org/audio/mp3/TSP-07-Cybersonnet.mp3"
-							},
-							{
-								title:"Tempered Song",
-								mp3:"http://www.jplayer.org/audio/mp3/Miaow-01-Tempered-song.mp3"
-							},
-							{
-								title:"Hidden",
-								mp3:"http://www.jplayer.org/audio/mp3/Miaow-02-Hidden.mp3"
-							},
-							{
-								title:"Lentement",
-								free:true,
-								mp3:"http://www.jplayer.org/audio/mp3/Miaow-03-Lentement.mp3"
-							},
-							{
-								title:"Lismore",
-								mp3:"http://www.jplayer.org/audio/mp3/Miaow-04-Lismore.mp3"
-							},
-							{
-								title:"The Separation",
-								mp3:"http://www.jplayer.org/audio/mp3/Miaow-05-The-separation.mp3"
-							},
-							{
-								title:"Beside Me",
-								mp3:"http://www.jplayer.org/audio/mp3/Miaow-06-Beside-me.mp3"
-							},
-							{
-								title:"Bubble",
-								free:true,
-								mp3:"http://www.jplayer.org/audio/mp3/Miaow-07-Bubble.mp3"
-							},
-							{
-								title:"Stirring of a Fool",
-								mp3:"http://www.jplayer.org/audio/mp3/Miaow-08-Stirring-of-a-fool.mp3"
-							},
-							{
-								title:"Partir",
-								free: true,
-								mp3:"http://www.jplayer.org/audio/mp3/Miaow-09-Partir.mp3"
-							},
-							{
-								title:"Thin Ice",
-								mp3:"http://www.jplayer.org/audio/mp3/Miaow-10-Thin-ice.mp3"
-							}
-						]';
-		break;		
-	case "guitar":
+	case "westlife":
+		$tmp_content = "http://www.nhaccuatui.com/l/4LXuOnCrC52Y";
 		break;
-	}
-	if ($tmp_content)
-	{
-		$content_user_wanna_listen = '<script type="text/javascript">
-									$(document).ready(function(){
-										playlist = new jPlayerPlaylist({
-											jPlayer: "#jquery_jplayer_1",
-											cssSelectorAncestor: "#jp_container_1"
-										},'.$tmp_content. ', {
-											swfPath: "http://localhost:88/wordpress/wp-content/themes/portal/music_js",
-											supplied: "oga, mp3",
-											wmode: "window",
-											smoothPlayBar: true,
-											keyEnabled: true
-										});
-									setTimeout(function() {
-									                //playlist.play();
-									            }, 500);
-									});
-									</script>';
-	}	
+	case "BB":
+		$tmp_content = "http://www.nhaccuatui.com/l/yb5OYT0TlxoH";
+		break;
+	case "nhac-giao-huong":
+		$tmp_content = "http://www.nhaccuatui.com/l/2tXdMJwO3Flu";
+		break;
+	case "happy-birthday":
+		$tmp_content = "http://www.nhaccuatui.com/l/2OkKXBCCOOMV";
+		break;
+	case "nhac-mua":
+		$tmp_content = "http://www.nhaccuatui.com/l/Y69MH09GgNSD";
+		break;	
+	case "loi-cua-song":
+		$tmp_content = "http://mp3.zing.vn/embed/album/IWFZ88DA";
+		break;	
+	case "nhac-san":
+		$tmp_content = "http://www.nhaccuatui.com/l/cH6J7AYRD0U6";
+		break;	
+	case "michael-jackson":
+		$tmp_content = "http://www.nhaccuatui.com/l/2pzsCcbLYtLw";
+		break;	
+	case "bich-phuong":
+		$tmp_content = "http://www.nhaccuatui.com/l/lELWsAZLnpWy";
+		break;	
+	case "guitar":
+		$tmp_content = "http://www.nhaccuatui.com/l/mYSxXGEXmBEI";
+		break;
+	case "piano":
+		$tmp_content = "http://www.nhaccuatui.com/l/nxmVCbf0A60J";
+		break;	
+	case "sao-tieu-dao":
+		$tmp_content = "http://www.nhaccuatui.com/l/voXFCz2W13UN";
+		break;
+	case "nhac-au-mi":
+		$tmp_content = "http://www.nhaccuatui.com/l/ymBq8HMZe5SZ";
+		break;	
+	case "tinh-yeu":
+		$tmp_content = "http://www.nhaccuatui.com/l/tuvRK5jDA9tc";
+		break;
+	case "tuoi-hoc-tro":
+		$tmp_content = "http://www.nhaccuatui.com/l/o3wdcLetm2gf";
+		break;
+	case "dong-que":
+		$tmp_content = "http://www.nhaccuatui.com/l/Y9qURLLYTZzd";
+		break;
+	case "nhac-han":
+		$tmp_content = "http://www.nhaccuatui.com/l/g3rPRJtEnK8C";
+		break;
+	case "rock":
+		$tmp_content = "http://www.nhaccuatui.com/l/JsuN0WbBODaS";
+		break;
+	case "rap":
+		$tmp_content = "http://www.nhaccuatui.com/l/H3MzxK7Q70Yo";
+		break;
+	case "anh-nho-em":
+		$tmp_content = "http://www.nhaccuatui.com/l/Po3d7OH80Cmd";
+		break;
+	case "em-nho-anh":
+		$tmp_content = "http://www.nhaccuatui.com/l/K1Uw2poJmiTA";
+		break;
+	case "top-viet":
+		$tmp_content = "http://www.nhaccuatui.com/l/55KLyo5hUsCu";
+		break;
+	}		
 }
+if ($tmp_content == NULL)
+{
+	$tmp_content = "http://www.nhaccuatui.com/l/mYSxXGEXmBEI"; 
+}
+
+$content_user_wanna_listen = '<embed src="'.$tmp_content.'" flashvars="target=blank&autostart=true" allowscriptaccess="always" allowfullscreen="true" quality="high" wmode="transparent" type="application/x-shockwave-flash" width="420" height="286"></embed>';
 ?>

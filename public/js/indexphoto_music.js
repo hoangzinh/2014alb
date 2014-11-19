@@ -118,12 +118,15 @@ $(document).ready(function() {
 	else
 		$('ul.etabs a[href$="#tab1"]').click();
 
-	var click = document.ontouchstart === undefined ? 'click' : 'touchstart';
-	var kickoff = function () {
-		$("#jquery_jplayer_1").jPlayer("play");
-		document.documentElement.removeEventListener(click, kickoff, true);
-	};
-	document.documentElement.addEventListener(click, kickoff, true);
+	if (is_flash == false)
+	{
+		var click = document.ontouchstart === undefined ? 'click' : 'touchstart';
+		var kickoff = function () {
+			$("#jquery_jplayer_1").jPlayer("play");
+			document.documentElement.removeEventListener(click, kickoff, true);
+		};
+		document.documentElement.addEventListener(click, kickoff, true);
+	}
 
 	//for zing.vn embed is crash if hide before loading finish
 	var src = $("#tab1 embed").attr('src');
@@ -142,7 +145,8 @@ $(document).ready(function() {
 		var interval = 1;
 
 		setInterval(function(){
-			if(interval == 3){
+			var is_hide = ($('ul.etabs a[href$="#tab-close"]').is(":hidden"));
+			if(interval == 3 && is_hide){
 				/* if intervall reaches 3 the user is inactive hide element/s */
 				$('#home').hide();
 				$('#fb-like-panpage').hide();

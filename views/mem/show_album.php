@@ -35,7 +35,6 @@
 	<script type="text/javascript" src="<?php echo URL; ?>public/thirdparty/jplayer/js/jplayer.playlist.min.js"></script>
 	<script type="text/javascript">
 	$(document).ready(function(){
-	
 		player = new jPlayerPlaylist({
 			jPlayer: "#jquery_jplayer_1",
 			cssSelectorAncestor: "#jp_container_1"

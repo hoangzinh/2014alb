@@ -33,10 +33,9 @@
 	
 	<script src="<?php echo URL; ?>public/js/facebook.js"></script>
 	<?php
-		if (USE_FLASH)
-			include_once('public/custom_php/iwanago_flash.php');
-		else
-			include_once('public/custom_php/iwanago_jplayer.php');
+		include_once('public/custom_php/iwanago.php');
+		if (USE_FLASH === '1')
+			include_once('public/custom_php/iwanalisten.php');
 	?>    
 </head>
 <body>
@@ -60,13 +59,10 @@
 
 <!--Get content-->
 <?php
-	if(USE_FLASH)
-	{
-		if ($content_user_wanna_go)
-			echo $content_user_wanna_go;
-		else
-			echo "Lỗi khi xử lý. Vui lòng tải lại link hợp lệ";
-	}
+	if ($content_user_wanna_go)
+		echo $content_user_wanna_go;
+	else
+		echo "Lỗi khi xử lý. Vui lòng tải lại link hợp lệ";
 ?>
 <div class="tab-container">
 
@@ -81,13 +77,14 @@
     
 <div id='tab1' class='tab-id center'>
 <?php
-             if($content_user_wanna_listen)
-                     echo $content_user_wanna_listen;
-             else
-             {
-                     echo "Lỗi khi xử lý. Vui lòng tải lại link hợp lệ";
-             }
- ?>		
+	if(USE_FLASH === '1')
+		 if($content_user_wanna_listen)
+			 echo $content_user_wanna_listen;
+		 else
+			 echo "Lỗi khi xử lý. Vui lòng tải lại link hợp lệ";
+	else
+		require 'libs/Music/player/jplayer.php';
+?>
 </div>
 
 <div id='tab2' class='tab-id center'>
