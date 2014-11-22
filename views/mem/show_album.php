@@ -28,33 +28,6 @@
     <script type="text/javascript" src="<?php echo URL; ?>public/js/jquery.mCustomScrollbar.concat.min.js"></script>
     <script type="text/javascript" src="<?php echo URL; ?>public/js/indexphoto_music.js"></script>    
 	<script src="<?php echo URL; ?>public/js/facebook.js"></script>
-
-	<?php if (!$this->is_flash){ ?>
-	<link href="<?php echo URL; ?>public/thirdparty/jplayer/skin/my.skin/jplayer.blue.monday.css" rel="stylesheet" type="text/css" />
-	<script type="text/javascript" src="<?php echo URL; ?>public/thirdparty/jplayer/js/jquery.jplayer.min.js"></script>
-	<script type="text/javascript" src="<?php echo URL; ?>public/thirdparty/jplayer/js/jplayer.playlist.min.js"></script>
-	<script type="text/javascript">
-	$(document).ready(function(){
-		player = new jPlayerPlaylist({
-			jPlayer: "#jquery_jplayer_1",
-			cssSelectorAncestor: "#jp_container_1"
-		}, [
-			<?php echo $this->music_album; ?>
-			], {
-			swfPath: "<?php echo URL; ?>public/thirdparty/jplayer/js",
-			supplied: "mp3",
-			wmode: "window",
-			smoothPlayBar: true,
-			keyEnabled: false,
-			loop: true
-		});
-
-		setTimeout(function() {
-			player.play();
-		}, 1000);
-	});
-	</script>
-	<?php } ?>
 </head>
 <body>
 <div id="fb-root"></div>
