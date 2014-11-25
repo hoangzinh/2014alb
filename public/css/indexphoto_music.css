@@ -1,16 +1,17 @@
 *{ margin: 0; padding: 0; }
 
 .tab { display: inline-block; *display:inline; background: rgba(0, 0, 0, 0.3); height:30px;border-bottom: solid 1px #8651A1;border-left: solid 1px #8651A1;border-right: solid 1px #8651A1;}
-.tab a { display: block; padding: 5px 10px; outline: none; height: 20px; }
+.tab a { display: block; padding: 5px 10px; outline: none; }
 
 .tab .active { background: #8651A1;}
 .tab a.active { font-weight: bold; }
 
-.tab-close { display: inline-block; background: #8651A1; height:22px;position:absolute;top:10px;left:350px;-moz-border-radius: 5px 5px 0px 0px; -webkit-border-radius: 5px 5px 0px 0px; border-radius: 5px 5px 0px 0px;}
+.tab-close { display: inline-block; background: #8651A1; height:22px;position:absolute;top:9px;left:350px;-moz-border-radius: 5px 5px 0px 0px; -webkit-border-radius: 5px 5px 0px 0px; border-radius: 5px 5px 0px 0px;}
 .tab-close a { display: block; padding: 0px 10px; color: white; text-decoration:none; font-size: 20px; text-align: left; }
 
 .etabs{
     margin-left: 150px;
+	 margin-bottom:0px;
 }
          
 #tab-container
@@ -40,8 +41,8 @@ z-index:6;
 }
 
 #tab1{
-	width:300px;
-        height: 0px;
+	width:400px;
+	height: 0px;
 }
 #tab2{
 	width:80%;

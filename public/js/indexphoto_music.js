@@ -120,12 +120,18 @@ $(document).ready(function() {
 
 	if (is_flash == false)
 	{
+		//fixing not autoplay in mobile device
 		var click = document.ontouchstart === undefined ? 'click' : 'touchstart';
 		var kickoff = function () {
 			$("#jquery_jplayer_1").jPlayer("play");
 			document.documentElement.removeEventListener(click, kickoff, true);
 		};
 		document.documentElement.addEventListener(click, kickoff, true);
+
+		//open show playlist
+		$("a.jp-open-playlist").click(function(){
+			$("div.jp-playlist").toggle();
+		});
 	}
 
 	//for zing.vn embed is crash if hide before loading finish
