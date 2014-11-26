@@ -41,16 +41,19 @@
 <body>
 <div id="fb-root"></div>
 <?php
-    if(isset($_GET['toimuonden']) && isset($_GET['thuongthuc']))
-    {
-        $fb_link = URL."?toimuonden=".$_GET['toimuonden']."&thuongthuc=".$_GET['thuongthuc'];
-    }
-    else
-        $fb_link = "http://album.ocdao.net";
+	if(isset($_GET['toimuonden']) && isset($_GET['thuongthuc']))
+		$fb_link = URL."?toimuonden=".$_GET['toimuonden']."&thuongthuc=".$_GET['thuongthuc'];
+	else
+		$fb_link = "http://album.ocdao.net";
+
+	$referer = $_SERVER['REQUEST_URI'];
+	if($referer != "/")
+	{
 ?>
 <div id="fb-like-share">
 <div class="fb-like" data-href="<?php echo $fb_link;?>" data-layout="box_count" data-action="like" data-show-faces="true" data-share="false"></div>      
 </div>
+<?php } ?>
 <div id="fb-like-panpage">
 <div class="fb-like-box" data-href="https://www.facebook.com/fanpageocdao" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="false" data-show-border="false"></div>
 </div>
@@ -129,7 +132,7 @@
 		<li class="music-tag" alt="nhac-mua"><img src="<?php echo URL; ?>public/img/music-icon.png" alt=music" />nhạc Mưa</li>
 		<li class="music-tag" alt="loi-cua-song"><img src="<?php echo URL; ?>public/img/music-icon.png" alt=music" />lời của Sóng</li>
 		<li class="music-tag" alt="nhac-san"><img src="<?php echo URL; ?>public/img/music-icon.png" alt=music" />nhạc sàn</li>
-		<li class="music-tag" alt="michael-jackson"><img src="<?php echo URL; ?>public/img/music-icon.png" alt=music" />Michael Jackson</li>
+		<li class="music-tag" alt="my-gu"><img src="<?php echo URL; ?>public/img/music-icon.png" alt=music" />My GUU</li>
 		<li class="music-tag" alt="bich-phuong"><img src="<?php echo URL; ?>public/img/music-icon.png" alt=music" />Bích Phương</li>
 		<li class="music-tag" alt="guitar"><img src="<?php echo URL; ?>public/img/music-icon.png" alt=music" />Guitar</li>
 		<li class="music-tag" alt="piano"><img src="<?php echo URL; ?>public/img/music-icon.png" alt=music" />Piano</li>

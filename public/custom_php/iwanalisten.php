@@ -26,8 +26,8 @@ if(isset($_GET['thuongthuc']))
 	case "nhac-san":
 		$tmp_content = "http://www.nhaccuatui.com/l/cH6J7AYRD0U6";
 		break;	
-	case "michael-jackson":
-		$tmp_content = "http://www.nhaccuatui.com/l/2pzsCcbLYtLw";
+	case "my-gu":
+		$tmp_content = "http://www.nhaccuatui.com/l/RmSeRXP5lNDa";
 		break;	
 	case "bich-phuong":
 		$tmp_content = "http://www.nhaccuatui.com/l/lELWsAZLnpWy";

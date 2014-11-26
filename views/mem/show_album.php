@@ -120,7 +120,7 @@ jQuery(function($){
 		<li class="music-tag" alt="nhac-mua"><img src="<?php echo URL; ?>public/img/music-icon.png" alt=music" />nhạc Mưa</li>
 		<li class="music-tag" alt="loi-cua-song"><img src="<?php echo URL; ?>public/img/music-icon.png" alt=music" />lời của Sóng</li>
 		<li class="music-tag" alt="nhac-san"><img src="<?php echo URL; ?>public/img/music-icon.png" alt=music" />nhạc sàn</li>
-		<li class="music-tag" alt="michael-jackson"><img src="<?php echo URL; ?>public/img/music-icon.png" alt=music" />Michael Jackson</li>
+		<li class="music-tag" alt="my-gu"><img src="<?php echo URL; ?>public/img/music-icon.png" alt=music" />My GUU</li>
 		<li class="music-tag" alt="bich-phuong"><img src="<?php echo URL; ?>public/img/music-icon.png" alt=music" />Bích Phương</li>
 		<li class="music-tag" alt="guitar"><img src="<?php echo URL; ?>public/img/music-icon.png" alt=music" />Guitar</li>
 		<li class="music-tag" alt="piano"><img src="<?php echo URL; ?>public/img/music-icon.png" alt=music" />Piano</li>
