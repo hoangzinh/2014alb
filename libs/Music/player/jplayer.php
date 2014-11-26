@@ -33,8 +33,11 @@
 
 	<div id="jp_container_1" class="jp-audio">
 		<div class="jp-type-playlist">
-			<div class="jp-adverstising"></div>
+			<div class="jp-adverstising">
+			<img src="<?php echo URL;?>public/thirdparty/jplayer/skin/my.skin/I-Love-You-Danbo.jpg" />
+			</div>
 			<div class="jp-current-song">
+				<img src="<?php echo URL;?>public/thirdparty/jplayer/skin/my.skin/mark.gif" />
 				<span>Ngay hom qua da tung</span>
 				<div class="pull-right"><a href="javascript:;" class="jp-open-playlist">playlist</a></div>
 			</div>

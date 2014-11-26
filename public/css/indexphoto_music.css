@@ -7,7 +7,8 @@
 .tab a.active { font-weight: bold; }
 
 .tab-close { display: inline-block; background: #8651A1; height:22px;position:absolute;top:9px;left:350px;-moz-border-radius: 5px 5px 0px 0px; -webkit-border-radius: 5px 5px 0px 0px; border-radius: 5px 5px 0px 0px;}
-.tab-close a { display: block; padding: 0px 10px; color: white; text-decoration:none; font-size: 20px; text-align: left; }
+.tab-close a { display: block; padding: 0px 10px; color: white; text-decoration:none; font-size: 16px; font-weight:bold;text-align: left; }
+.tab-close a:hover{text-decoration:none}
 
 .etabs{
     margin-left: 150px;
