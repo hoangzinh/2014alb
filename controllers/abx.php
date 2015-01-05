@@ -17,7 +17,14 @@ class Abx extends Controller {
 		$userid = $this->checkPermission();
 		$this->view->username = $userid;
 		$this->view->userid = $userid;
-		$this->view->data = $this->model->getListAlbum();
+		//check if it's post edit request
+		if($_SERVER['REQUEST_METHOD'] == "POST"){ 
+			if (isset($_POST['email'])) {
+				$email = $_POST['email'];
+				$this->view->data = $this->model->getListAlbumByEmail($email);
+			}
+		}
+		$this->view->total = $this->model->getTotal($table_album = "list_albums");
 		$this->view->render('abx/viewalbum','header_mem');
 	}
 	
@@ -25,7 +32,14 @@ class Abx extends Controller {
 		$userid = $this->checkPermission();
 		$this->view->username = $userid;
 		$this->view->userid = $userid;
-		$this->view->data = $this->model->getListUser();
+
+		if($_SERVER['REQUEST_METHOD'] == "POST"){ 
+			if (isset($_POST['email'])) {
+				$email = $_POST['email'];
+				$this->view->data = $this->model->getUserByEmail($email);
+			}
+		}
+		$this->view->total = $this->model->getTotal($table_user = "users");
 		$this->view->render('abx/viewuser','header_mem');
 	}
 

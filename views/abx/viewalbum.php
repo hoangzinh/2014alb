@@ -1,4 +1,19 @@
-<h3>Total: <?php echo count($this->data); ?></h3>
+<h3>Total album: <?php echo $this->total; ?></h3>
+<form class="form-horizontal" action="" method="post">
+	<fieldset>
+		<div class="form-group">
+			<label for="email" class="col-lg-2 control-label">Search by email</label>
+			<div class="col-lg-5">
+					<div class="input-group">
+						<span class="input-group-addon">@</span>
+						<input type="text" class="form-control" id="email" name="email" placeholder="email@example.com">
+					</div>
+					<button type="submit" class="btn btn-primary pull-right">Search</button>
+			</div>
+		</div>
+	</fieldset>
+</form>
+
 
 <table class="table table-striped table-hover ">
 	<thead>
