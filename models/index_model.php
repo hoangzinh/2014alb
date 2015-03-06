@@ -17,15 +17,18 @@ class Index_Model extends Model
 		$data = $sth->fetchAll();
 		return $data[0][0];
 	}
-	
+
 	//function convert link music from table album to table music
-	function update_music(){
-		$sth = $this->db->prepare("SELECT id_album,music FROM ".DB_PREFIX."list_musics");
+	function update_music($from, $to){
+		$to = intval($to);
+		$from  = intval($from);
+		$number = $to - $from;
+		$sth = $this->db->prepare("SELECT id_album,music FROM ".DB_PREFIX."list_musics LIMIT $from, $number");
 		$sth->execute();
 		$data = $sth->fetchAll();
 		foreach ($data as $row){
 			$url_embed = get_link_music_embed($row['music']);
-			$sthi = $this->db->prepare("UPDATE ".DB_PREFIX."list_musics SET music_embed=:music_embed,is_flash=:is_flash 
+			$sthi = $this->db->prepare("UPDATE ".DB_PREFIX."list_musics SET music_embed=:music_embed,is_flash=:is_flash
 				WHERE id_album=:id_album");
 			$sthi->execute(array(
 				':id_album' => $row['id_album'],
@@ -42,7 +45,7 @@ class Index_Model extends Model
 		$data = $sth->fetchAll();
 		foreach ($data as $row){
 			$url_embed = get_link_music_embed($row[1]);
-			$sthi = $this->db->prepare("UPDATE ".DB_PREFIX."index SET value2=:music_embed 
+			$sthi = $this->db->prepare("UPDATE ".DB_PREFIX."index SET value2=:music_embed
 				WHERE id=:id_album");
 			$sthi->execute(array(
 				':id_album' => $row[0],

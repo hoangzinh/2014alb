@@ -5,7 +5,7 @@ class Index extends Controller {
 	function __construct() {
 		parent::__construct();
 	}
-	
+
 	function index() {
 		if(USE_FLASH === '0'){
 			$listen ="";
@@ -46,9 +46,19 @@ class Index extends Controller {
 	}
 
 	function updatedfhawnasdfzsxlaqwwerusjd(){
-		echo "Start update";
-		$this->model->update_music();
+		if (isset($_GET['from']) && isset($_GET['to']))
+		{
+			$from = $_GET['from'];
+			$to   = $_GET['to'];
+			echo "Start update from id=$from to id=$to";
+			$this->model->update_music();
+			echo "<p>Finish update</p>";
+		}
+	}
+
+	function indexupdatedfhawnasdfzsxlaqwwerusjd(){
+		echo "Start update index";
 		$this->model->update_music_index();
-		echo "Finish update";
+		echo "<p>Finish update</p>";
 	}
 }
